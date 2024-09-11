@@ -1,0 +1,13 @@
+public class Main
+{
+     public static void main (String[] args)
+    {
+      int a = 22
+      double b = 2.2
+      final int a = a + 22
+      boolean c = false
+      string refrence = cake
+      system.out.println( a + b );
+      system.out.print( refrence + c );
+    }
+}
