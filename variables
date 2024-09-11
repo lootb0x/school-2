@@ -1,13 +1,13 @@
-public class Main
+public class main
 {
      public static void main (String[] args)
     {
-      int a = 22
-      double b = 2.2
-      final int a = a + 22
-      boolean c = false
-      string refrence = cake
-      system.out.println( a + b );
-      system.out.print( refrence + c );
+      int apple = 22
+      double boy = 2.2
+      final int apple = apple + 22
+      boolean cod = false
+      String dog = "cake"
+      system.out.println(apple+boy);
+      system.out.print(dog+cod);
     }
 }
